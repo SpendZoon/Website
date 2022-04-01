@@ -1,0 +1,29 @@
+/**
+ * Minified by jsDelivr using clean-css v4.2.0.
+ * Original file: /npm/slick-carousel@1.8.1/slick/slick-theme.css
+ * 
+ * Do NOT use SRI with dynamically generated files! More information: https://www.jsdelivr.com/using-sri-with-dynamic-files
+ */
+@charset 'UTF-8';.slick-loading .slick-list{background:#fff url(/web/20220129184227im_/https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/ajax-loader.gif) center center no-repeat}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(/web/20220129184227im_/https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.eot);src:url(/web/20220129184227im_/https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.eot#iefix) format('embedded-opentype'),url(/web/20220129184227im_/https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.woff) format('woff'),url(/web/20220129184227im_/https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.ttf) format('truetype'),url(/web/20220129184227im_/https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/fonts/slick.svg#slick) format('svg')}.slick-next,.slick-prev{font-size:0;line-height:0;position:absolute;top:50%;display:block;width:20px;height:20px;padding:0;-webkit-transform:translate(0,-50%);-ms-transform:translate(0,-50%);transform:translate(0,-50%);cursor:pointer;color:transparent;border:none;outline:0;background:0 0}.slick-next:focus,.slick-next:hover,.slick-prev:focus,.slick-prev:hover{color:transparent;outline:0;background:0 0}.slick-next:focus:before,.slick-next:hover:before,.slick-prev:focus:before,.slick-prev:hover:before{opacity:1}.slick-next.slick-disabled:before,.slick-prev.slick-disabled:before{opacity:.25}.slick-next:before,.slick-prev:before{font-family:slick;font-size:20px;line-height:1;opacity:.75;color:#fff;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.slick-prev{left:-25px}[dir=rtl] .slick-prev{right:-25px;left:auto}.slick-prev:before{content:'←'}[dir=rtl] .slick-prev:before{content:'→'}.slick-next{right:-25px}[dir=rtl] .slick-next{right:auto;left:-25px}.slick-next:before{content:'→'}[dir=rtl] .slick-next:before{content:'←'}.slick-dotted.slick-slider{margin-bottom:30px}.slick-dots{position:absolute;bottom:-25px;display:block;width:100%;padding:0;margin:0;list-style:none;text-align:center}.slick-dots li{position:relative;display:inline-block;width:20px;height:20px;margin:0 5px;padding:0;cursor:pointer}.slick-dots li button{font-size:0;line-height:0;display:block;width:20px;height:20px;padding:5px;cursor:pointer;color:transparent;border:0;outline:0;background:0 0}.slick-dots li button:focus,.slick-dots li button:hover{outline:0}.slick-dots li button:focus:before,.slick-dots li button:hover:before{opacity:1}.slick-dots li button:before{font-family:slick;font-size:6px;line-height:20px;position:absolute;top:0;left:0;width:20px;height:20px;content:'•';text-align:center;opacity:.25;color:#000;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.slick-dots li.slick-active button:before{opacity:.75;color:#000}
+/*# sourceMappingURL=/sm/4f6eaa7dd1119d31ae1e63765b05594f0f2412451130c0a4def1018d0e4be09b.map */
+/*
+     FILE ARCHIVED ON 18:42:27 Jan 29, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 01:59:51 Mar 31, 2022.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 157.572
+  exclusion.robots: 0.07
+  exclusion.robots.policy: 0.065
+  cdx.remote: 0.043
+  esindex: 0.004
+  LoadShardBlock: 64.45 (3)
+  PetaboxLoader3.datanode: 120.62 (5)
+  CDXLines.iter: 30.238 (3)
+  load_resource: 235.047 (2)
+  PetaboxLoader3.resolve: 86.54 (2)
+*/
